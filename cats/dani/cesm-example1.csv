@@ -1,0 +1,2 @@
+activity_id,institution_id,source_id,experiment_id,frequency,realm,table_id,member_id,grid_label,variable_id,time_range,chunk_freq,grid_label,platform,dimensions,cell_methods,standard_name,path
+,,cam,b.e23_alpha16g.BLT1850.ne30_t232.082b,mon,atmos,,,,ECOSYS_XKW,002401-002912,,,,,ts,XKW_for_ecosys_fluxes,/home/a1r/cgd/amp/bundy/b.e23_alpha16g.BLT1850.ne30_t232.082b/20240314bl/ts/b.e23_alpha16g.BLT1850.ne30_t232.082b.cam.h0.ECOSYS_XKW.002401-002912.nc
