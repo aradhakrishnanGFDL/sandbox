@@ -134,5 +134,5 @@
   "description": null,
   "title": null,
   "last_updated": "2023-05-07T16:35:52Z",
-  "catalog_file": "mycatalog-spear.csv"
+  "catalog_file": "https://raw.githubusercontent.com/aradhakrishnanGFDL/sandbox/refs/heads/spear/cats/spear/mycatalog-spear.csv"
 }
