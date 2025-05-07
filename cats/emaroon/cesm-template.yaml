@@ -33,7 +33,9 @@ output_path_template: ['NA','NA','NA','NA','NA','source_id','custom_pp','cell_me
 #For a CESM example-  {casename}.{componet_model}.{hist_str}.{var_name}.{timestamp}.nc
 #e.g b.e23_alpha16g.BLT1850.ne30_t232.082b.cam.h2.V850.0024010600000-0029122700000.nc
 
-output_file_template: ['NA','NA','NA','NA','source_id','member_id','variable_id','frequency']
+#output_file_template: ['NA','NA','NA','NA','source_id','member_id','variable_id','frequency']
+output_file_template: ['NA','NA','NA','NA','NA','source_id','frequency','variable_id','time_range']
+
 #notes v -i /home/a1r/cgd/amp/bundy/b.e23_alpha16g.BLT1850.ne30_t232.082b/20240314bl/ts/atmos/monthly/g.e11_LENS.GECOIAF.T62_g16.009.pop.h.ECOSYS_XKW.024901-031612.nc  /home/a1r/cgd/amp/bundy/b.e23_alpha16g.BLT1850.ne30_t232.082b/20240314bl/ts/atmos/monthly/.e23_alpha16g.BLT1850.ne30_t232.082b.cam.h0.ECOSYS_XKW.002401-002912.nc
 #
 #OUTPUT FILE INFO is currently passed as command-line argument.
