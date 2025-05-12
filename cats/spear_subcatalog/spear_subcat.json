@@ -116,5 +116,5 @@
   "description": null,
   "title": null,
   "last_updated": "2025-05-12T17:25:13Z",
-  "catalog_file": "file:///home/aradick/Documents/scratch/SPEAR-test/spear_subcat.csv"
+  "catalog_file": "https://raw.githubusercontent.com/aradhakrishnanGFDL/sandbox/refs/heads/spear/cats/spear_subcatalog/spear_subcat.csv"
 }
